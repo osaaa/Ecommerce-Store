@@ -1,2 +1,2 @@
 # Ecommerce-Store
-Front End of an Ecommerce Store built with typescript, angular, tailwind and stripe api
+FrontEnd of an Ecommerce Store built with Angular/Typescript, tailwind and stripe api
